@@ -1,0 +1,4 @@
+Processing file "test/test-errors-preprocess/test.as"
+Creating .am file for file "test/test-errors-preprocess/test.as"
+Error in file "test/test-errors-preprocess/test.as", line 3: Unexpected token b after macro name
+Finished assembling file "test/test-errors-preprocess/test" with errors

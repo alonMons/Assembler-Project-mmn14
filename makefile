@@ -1,0 +1,3 @@
+all: assembler
+assembler: data_structures/hashtable.c data_structures/node.c assemble_file.c assembler.c firstPass.c globals.c parser.c preprocessor.c secondPass.c utils.c writeOutputFiles.c
+	gcc data_structures/hashtable.c data_structures/node.c assemble_file.c assembler.c firstPass.c globals.c parser.c preprocessor.c secondPass.c utils.c writeOutputFiles.c -g -ansi -pedantic -Wall -lm -o assembler

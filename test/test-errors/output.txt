@@ -1,0 +1,15 @@
+Processing file "test/test-errors/test.as"
+Creating .am file for file "test/test-errors/test.as"
+Parsing file "test/test-errors/test.am"
+Error in file "test/test-errors/test.am" on line 3: Trying to redefine the symbol "LIST"
+Warning in file "test/test-errors/test.am" on line 5: Redefining the symbol "W" as extern again
+Warning in file "test/test-errors/test.am" on line 7: the constant "sz" is too large and not useable
+Error in file "test/test-errors/test.am" on line 20: Unexpected token: 1label:
+Error in file "test/test-errors/test.am" on line 21: Uncompatible operand: 50
+Error in file "test/test-errors/test.am" on line 27: Invalid extern directive, unexpected token K after label
+Error in file "test/test-errors/test.am" on line 29: Invalid string value, string has unprintable characters
+Error in file "test/test-errors/test.am": Symbol "ENTRY" was declared as entry but was never defined
+Error in file "test/test-errors/test.am" on line 6: value "50000" is too large
+Error in file "test/test-errors/test.am" on line 8: Index 10000 is out of bounds
+Error in file "test/test-errors/test.am" on line 13: value "10000" is too large
+Finished assembling file "test/test-errors/test" with errors

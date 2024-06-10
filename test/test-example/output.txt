@@ -1,0 +1,7 @@
+Processing file "test/test-example/test.as"
+Creating .am file for file "test/test-example/test.as"
+Parsing file "test/test-example/test.am"
+Creating .ob file for file "test/test-example/test"
+Creating .ent file for file "test/test-example/test"
+Creating .ext file for file "test/test-example/test"
+Finished assembling file "test/test-example/test" with success
